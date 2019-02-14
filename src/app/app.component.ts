@@ -18,5 +18,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = 'angular-sw-cache-issue';
+  title = 'angular-sw-cache-issue (1)';
 }

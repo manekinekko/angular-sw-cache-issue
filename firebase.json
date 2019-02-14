@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/angular-sw-cache-issue",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

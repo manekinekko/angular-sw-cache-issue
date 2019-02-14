@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AComponent implements OnInit {
 
-  counter = 0;
+  counter = 1;
 
   constructor() { }
 
